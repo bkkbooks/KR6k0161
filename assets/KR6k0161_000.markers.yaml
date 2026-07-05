@@ -30,7 +30,6 @@ markers:
   - {type: xml-element, offset: 24, content: '', id: itemX41p0523a0901, name: item, role: open, attrs: {'xml:id': itemX41p0523a0901}}
   - {type: variant, offset: 24, length: 1, content: 已, 卍續: 巳}
   - {type: variant, offset: 25, length: 1, content: 已, 卍續: 巳}
-  - {type: substitution, offset: 25, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: variant, offset: 26, length: 1, content: 已, 卍續: 巳}
   - {type: variant, offset: 29, length: 1, content: 已, 卍續: 巳}
   - {type: xml-element, offset: 32, content: '', id: itemX41p0523a0901_end, name: item, role: close, attrs: {'xml:id': itemX41p0523a0901}}
@@ -60,7 +59,6 @@ markers:
   - {type: line-break, offset: 61, content: '', id: KR6k0161_X_000-0357a11, ed: R065, 'n': 0357a11}
   - {type: xml-element, offset: 61, content: '', id: KR6k0161_X_000-bkkxmlele8, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 61, content: '', id: itemX41p0523a1401, name: item, role: open, attrs: {'xml:id': itemX41p0523a1401}}
-  - {type: substitution, offset: 70, original: 婬, replacement: 淫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1138}}
   - {type: xml-element, offset: 74, content: '', id: itemX41p0523a1401_end, name: item, role: close, attrs: {'xml:id': itemX41p0523a1401}}
   - {type: xml-element, offset: 74, content: '', id: KR6k0161_X_000-bkkxmlele9, name: list, role: close, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 74, content: '', id: itemX41p0523a1301_end, name: item, role: close, attrs: {'xml:id': itemX41p0523a1301}}
@@ -3677,4 +3675,4 @@ markers:
   - {type: variant, offset: 27410, length: 1, content: 已, 卍續: 巳}
   body: []
   back: []
-hash: sha256:b970ec1f098f4fb6aebcf238eb259dcc9a86c6fc24edc42cd3f73a1abbfc23e6
+hash: sha256:f95b18b74d581f1c4a0db8b6eb4ee9ae6b483693f6e16a9228395cb4ef5e8a8d
